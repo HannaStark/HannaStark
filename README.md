@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning how to build a learning and development structure in a small but growing company
 - 💞️ I’m looking forward to finding out whether the company, I work for, and you are a match.
 - 📫 How to reach me: best via Xing or LinkedIn
+- https://www.linkedin.com/in/hanna-stark-1b057310a/
+- https://www.xing.com/profile/Hanna_Stark4/
 
 <!---
 HannaStark/HannaStark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
